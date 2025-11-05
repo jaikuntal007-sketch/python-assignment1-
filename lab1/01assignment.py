@@ -1,5 +1,5 @@
 # Name: jai kuntal
-# Date: 2025-10-28
+# Date: 2025-11-03
 # Project: Daily Calorie Tracker CLI Tool
 
 print("Welcome to the Daily Calorie Tracker!")
@@ -34,3 +34,4 @@ for meal, cal in zip(meal_names, calorie_amounts):
 print("-----------------------------")
 print(f"Total:\t\t{total_calories}")
 print(f"Average:\t{average_calories:.2f}")
+
